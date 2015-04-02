@@ -5,7 +5,7 @@
 <tiles-definitions>
 
     <definition name="DefaultTemplate" template="/WEB-INF/views/template/SiteTemplate.jsp">
-		<put-attribute name="title" 	value="Home" />
+		<put-attribute name="title" 	value="Home *** Spring MVC - Tiles Integration tutorial" />
 		<put-attribute name="header" 	value="/WEB-INF/views/template/header.jsp" />
 		<put-attribute name="menu" 		value="/WEB-INF/views/template/menu.jsp" />
 		<put-attribute name="body" 		value="" />
